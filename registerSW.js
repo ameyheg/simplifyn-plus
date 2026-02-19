@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/simplifyn-plus/sw.js', { scope: '/simplifyn-plus/' })})}

@@ -1,0 +1,24 @@
+{
+    "name": "Simplifyn — Personal Finance Manager",
+    "short_name": "Simplifyn",
+    "description": "100% local-first personal finance app for Indians. Track income, expenses, investments, taxes, insurance, loans and more — all on YOUR device.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#6366f1",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/vite.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "finance",
+        "productivity"
+    ],
+    "lang": "en-IN"
+}
